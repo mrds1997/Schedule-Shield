@@ -21,3 +21,4 @@ The app allows users to set notifications from **7 days before** a holiday up to
 - **State Management:** Flutter BLoC  
 
 Even though the project was paused, it demonstrates my expertise in **cross-platform development, scheduling logic, and notification systems** using Flutter.
+<img src="https://github.com/user-attachments/assets/56d2af6a-c49b-4cf6-af28-9a72fc5e83e3" width="300"/>
