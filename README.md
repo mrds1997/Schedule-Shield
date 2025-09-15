@@ -22,5 +22,5 @@ The app allows users to set notifications from **7 days before** a holiday up to
 
 Even though the project was paused, it demonstrates my expertise in **cross-platform development, scheduling logic, and notification systems** using Flutter.
 <br/>
-<img src="https://github.com/user-attachments/assets/9dc5f88a-8125-45bd-b859-07335d425fe6" width="300"/>
+<img src="https://github.com/user-attachments/assets/9dc5f88a-8125-45bd-b859-07335d425fe6" width="100%"/>
 
